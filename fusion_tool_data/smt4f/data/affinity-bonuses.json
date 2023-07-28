@@ -1,0 +1,28 @@
+{
+  "elements": {
+    "phy": "attack",
+    "gun": "attack",
+    "fir": "attack",
+    "ice": "attack",
+    "ele": "attack",
+    "for": "attack",
+    "lig": "attack",
+    "dar": "attack",
+    "alm": "attack",
+    "rec": "sup",
+    "ail": "ail",
+    "sup": "sup"
+  },
+  "costs": {
+    "attack": [0, 10, 10, 10, 20, 20, 20, 20, 20],
+    "ail": [0, 10, 10, 10, 20, 20, 20, 20, 20],
+    "rec": [0, 10, 10, 10, 20],
+    "sup": [10, 20, 30, 40, 50]
+  },
+  "upgrades": {
+    "attack": [10, 10, 20, 30, 30, 40, 50, 60, 70],
+    "ail": [5, 5, 10, 15, 15, 20, 25, 30, 35],
+    "rec": [15, 15, 30, 45, 45],
+    "sup": [0, 0, 0, 0, 0]
+  }
+}

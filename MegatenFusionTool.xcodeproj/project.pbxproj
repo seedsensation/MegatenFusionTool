@@ -8,22 +8,55 @@
 
 /* Begin PBXBuildFile section */
 		6CDB0F2D2A727D40002F276F /* MegatenFusionToolApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F2C2A727D40002F276F /* MegatenFusionToolApp.swift */; };
-		6CDB0F2F2A727D40002F276F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F2E2A727D40002F276F /* ContentView.swift */; };
 		6CDB0F312A727D41002F276F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CDB0F302A727D41002F276F /* Assets.xcassets */; };
 		6CDB0F342A727D41002F276F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CDB0F332A727D41002F276F /* Preview Assets.xcassets */; };
 		6CDB0F362A727D41002F276F /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F352A727D41002F276F /* Persistence.swift */; };
 		6CDB0F392A727D41002F276F /* MegatenFusionTool.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F372A727D41002F276F /* MegatenFusionTool.xcdatamodeld */; };
+		6CDB0F422A727D51002F276F /* Demon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F412A727D51002F276F /* Demon.swift */; };
+		6CDB0F442A728088002F276F /* fusion_tool_data in Resources */ = {isa = PBXBuildFile; fileRef = 6CDB0F432A728088002F276F /* fusion_tool_data */; };
+		6CDB0F472A728168002F276F /* JSONLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F462A728168002F276F /* JSONLoad.swift */; };
+		6CDB0F492A728200002F276F /* Compendium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F482A728200002F276F /* Compendium.swift */; };
+		6CDB0F4B2A728380002F276F /* Games.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F4A2A728380002F276F /* Games.swift */; };
+		6CDB0F4E2A72B5FE002F276F /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F4D2A72B5FE002F276F /* SwiftyJSON.swift */; };
+		6CDB0F532A732D0E002F276F /* DemonRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F522A732D0E002F276F /* DemonRow.swift */; };
+		6CDB0F552A732D9A002F276F /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F542A732D9A002F276F /* ModelData.swift */; };
+		6CDB0F592A732F44002F276F /* DemonList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F582A732F44002F276F /* DemonList.swift */; };
+		6CDB0F5B2A7330A5002F276F /* DemonDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F5A2A7330A5002F276F /* DemonDetail.swift */; };
+		6CDB0F5D2A733184002F276F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F5C2A733184002F276F /* ContentView.swift */; };
+		6CDB0F5F2A733A95002F276F /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F5E2A733A95002F276F /* MainView.swift */; };
+		6CDB0F612A733B3F002F276F /* SkillList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F602A733B3F002F276F /* SkillList.swift */; };
+		6CDB0F632A733BEC002F276F /* SkillRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F622A733BEC002F276F /* SkillRow.swift */; };
+		6CDB0F652A733E16002F276F /* SkillDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F642A733E16002F276F /* SkillDetail.swift */; };
+		6CDB0F672A7341AE002F276F /* StatsTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F662A7341AE002F276F /* StatsTable.swift */; };
+		6CDB0F692A7348DC002F276F /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDB0F682A7348DC002F276F /* Settings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		6CDB0F292A727D40002F276F /* MegatenFusionTool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MegatenFusionTool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CDB0F2C2A727D40002F276F /* MegatenFusionToolApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MegatenFusionToolApp.swift; sourceTree = "<group>"; };
-		6CDB0F2E2A727D40002F276F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6CDB0F302A727D41002F276F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6CDB0F332A727D41002F276F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6CDB0F352A727D41002F276F /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		6CDB0F382A727D41002F276F /* MegatenFusionTool.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MegatenFusionTool.xcdatamodel; sourceTree = "<group>"; };
 		6CDB0F3A2A727D41002F276F /* MegatenFusionTool.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MegatenFusionTool.entitlements; sourceTree = "<group>"; };
+		6CDB0F412A727D51002F276F /* Demon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demon.swift; sourceTree = "<group>"; };
+		6CDB0F432A728088002F276F /* fusion_tool_data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fusion_tool_data; sourceTree = "<group>"; };
+		6CDB0F462A728168002F276F /* JSONLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONLoad.swift; sourceTree = "<group>"; };
+		6CDB0F482A728200002F276F /* Compendium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compendium.swift; sourceTree = "<group>"; };
+		6CDB0F4A2A728380002F276F /* Games.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Games.swift; sourceTree = "<group>"; };
+		6CDB0F4C2A72A140002F276F /* Testing.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Testing.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6CDB0F4D2A72B5FE002F276F /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		6CDB0F522A732D0E002F276F /* DemonRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemonRow.swift; sourceTree = "<group>"; };
+		6CDB0F542A732D9A002F276F /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		6CDB0F582A732F44002F276F /* DemonList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemonList.swift; sourceTree = "<group>"; };
+		6CDB0F5A2A7330A5002F276F /* DemonDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemonDetail.swift; sourceTree = "<group>"; };
+		6CDB0F5C2A733184002F276F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6CDB0F5E2A733A95002F276F /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		6CDB0F602A733B3F002F276F /* SkillList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillList.swift; sourceTree = "<group>"; };
+		6CDB0F622A733BEC002F276F /* SkillRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillRow.swift; sourceTree = "<group>"; };
+		6CDB0F642A733E16002F276F /* SkillDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillDetail.swift; sourceTree = "<group>"; };
+		6CDB0F662A7341AE002F276F /* StatsTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsTable.swift; sourceTree = "<group>"; };
+		6CDB0F682A7348DC002F276F /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +73,7 @@
 		6CDB0F202A727D40002F276F = {
 			isa = PBXGroup;
 			children = (
+				6CDB0F432A728088002F276F /* fusion_tool_data */,
 				6CDB0F2B2A727D40002F276F /* MegatenFusionTool */,
 				6CDB0F2A2A727D40002F276F /* Products */,
 			);
@@ -57,12 +91,15 @@
 			isa = PBXGroup;
 			children = (
 				6CDB0F2C2A727D40002F276F /* MegatenFusionToolApp.swift */,
-				6CDB0F2E2A727D40002F276F /* ContentView.swift */,
+				6CDB0F452A728157002F276F /* Functions */,
+				6CDB0F402A727D46002F276F /* Objects */,
+				6CDB0F4F2A732CB1002F276F /* Views */,
 				6CDB0F302A727D41002F276F /* Assets.xcassets */,
 				6CDB0F352A727D41002F276F /* Persistence.swift */,
 				6CDB0F3A2A727D41002F276F /* MegatenFusionTool.entitlements */,
 				6CDB0F372A727D41002F276F /* MegatenFusionTool.xcdatamodeld */,
 				6CDB0F322A727D41002F276F /* Preview Content */,
+				6CDB0F4C2A72A140002F276F /* Testing.playground */,
 			);
 			path = MegatenFusionTool;
 			sourceTree = "<group>";
@@ -73,6 +110,43 @@
 				6CDB0F332A727D41002F276F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6CDB0F402A727D46002F276F /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				6CDB0F412A727D51002F276F /* Demon.swift */,
+				6CDB0F482A728200002F276F /* Compendium.swift */,
+				6CDB0F4A2A728380002F276F /* Games.swift */,
+			);
+			path = Objects;
+			sourceTree = "<group>";
+		};
+		6CDB0F452A728157002F276F /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				6CDB0F4D2A72B5FE002F276F /* SwiftyJSON.swift */,
+				6CDB0F462A728168002F276F /* JSONLoad.swift */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		6CDB0F4F2A732CB1002F276F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6CDB0F522A732D0E002F276F /* DemonRow.swift */,
+				6CDB0F682A7348DC002F276F /* Settings.swift */,
+				6CDB0F622A733BEC002F276F /* SkillRow.swift */,
+				6CDB0F542A732D9A002F276F /* ModelData.swift */,
+				6CDB0F582A732F44002F276F /* DemonList.swift */,
+				6CDB0F642A733E16002F276F /* SkillDetail.swift */,
+				6CDB0F602A733B3F002F276F /* SkillList.swift */,
+				6CDB0F5E2A733A95002F276F /* MainView.swift */,
+				6CDB0F662A7341AE002F276F /* StatsTable.swift */,
+				6CDB0F5A2A7330A5002F276F /* DemonDetail.swift */,
+				6CDB0F5C2A733184002F276F /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CDB0F442A728088002F276F /* fusion_tool_data in Resources */,
 				6CDB0F342A727D41002F276F /* Preview Assets.xcassets in Resources */,
 				6CDB0F312A727D41002F276F /* Assets.xcassets in Resources */,
 			);
@@ -145,10 +220,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CDB0F652A733E16002F276F /* SkillDetail.swift in Sources */,
+				6CDB0F632A733BEC002F276F /* SkillRow.swift in Sources */,
 				6CDB0F362A727D41002F276F /* Persistence.swift in Sources */,
+				6CDB0F5F2A733A95002F276F /* MainView.swift in Sources */,
 				6CDB0F392A727D41002F276F /* MegatenFusionTool.xcdatamodeld in Sources */,
-				6CDB0F2F2A727D40002F276F /* ContentView.swift in Sources */,
+				6CDB0F492A728200002F276F /* Compendium.swift in Sources */,
+				6CDB0F4B2A728380002F276F /* Games.swift in Sources */,
+				6CDB0F532A732D0E002F276F /* DemonRow.swift in Sources */,
+				6CDB0F472A728168002F276F /* JSONLoad.swift in Sources */,
+				6CDB0F552A732D9A002F276F /* ModelData.swift in Sources */,
+				6CDB0F5B2A7330A5002F276F /* DemonDetail.swift in Sources */,
+				6CDB0F4E2A72B5FE002F276F /* SwiftyJSON.swift in Sources */,
+				6CDB0F592A732F44002F276F /* DemonList.swift in Sources */,
+				6CDB0F5D2A733184002F276F /* ContentView.swift in Sources */,
 				6CDB0F2D2A727D40002F276F /* MegatenFusionToolApp.swift in Sources */,
+				6CDB0F422A727D51002F276F /* Demon.swift in Sources */,
+				6CDB0F672A7341AE002F276F /* StatsTable.swift in Sources */,
+				6CDB0F612A733B3F002F276F /* SkillList.swift in Sources */,
+				6CDB0F692A7348DC002F276F /* Settings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +368,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MegatenFusionTool/Preview Content\"";
+				DEVELOPMENT_TEAM = LV45C3UDC8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -288,8 +379,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rcury.MegatenFusionTool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -303,6 +398,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MegatenFusionTool/Preview Content\"";
+				DEVELOPMENT_TEAM = LV45C3UDC8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -313,8 +409,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rcury.MegatenFusionTool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

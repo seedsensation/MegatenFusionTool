@@ -1,0 +1,1076 @@
+{
+  "Absorb Elec": {
+    "card": "Foggy Day ???",
+    "effect": "Absorbs Elec dmg",
+    "element": "pas"
+  },
+  "Absorb Fire": {
+    "card": "Full Moon ???",
+    "effect": "Absorbs Fire dmg",
+    "element": "pas"
+  },
+  "Abyssal Eye": {
+    "cost": 1050,
+    "effect": "220 power",
+    "element": "alm",
+    "target": "All foes",
+    "unique": "Hastur"
+  },
+  "Ailment Boost": {
+    "card": "Fusion Accident (36)",
+    "effect": "Ailment affliction rate x1.25",
+    "element": "pas"
+  },
+  "Ailment Hunter": {
+    "effect": "Dmg +25% for each foe afflicted with an ailment",
+    "element": "tra"
+  },
+  "Akasha Arts": {
+    "cost": 20,
+    "effect": "300 power, 1-2 hits, 40% crit",
+    "element": "phy",
+    "target": "All foes",
+    "unique": "Athena"
+  },
+  "Ali Dance": {
+    "card": "Jazz 1/15 Foggy Day 50",
+    "effect": "Halves hit rate of all incoming dmg",
+    "element": "pas"
+  },
+  "All-out Attack Boost": {
+    "effect": "Increases dmg from All-out Attacks",
+    "element": "pas"
+  },
+  "Allure of Wisdom": {
+    "effect": "Reduces costs of magic skills by 75%",
+    "element": "tra"
+  },
+  "Almighty Amp": {
+    "card": "Network Fusion",
+    "effect": "Almighty dmg x1.5",
+    "element": "pas"
+  },
+  "Almighty Boost": {
+    "card": "Network Fusion",
+    "effect": "Almighty dmg x1.25",
+    "element": "pas"
+  },
+  "Amrita Shower": {
+    "card": "Fusion Accident (56)",
+    "cost": 1012,
+    "effect": "Cure non-unique ailments",
+    "element": "rec",
+    "target": "All allies"
+  },
+  "Angelic Grace": {
+    "card": "Fusion Accident (56)",
+    "effect": "Doubles evasion against non-Almighty magic dmg",
+    "element": "pas"
+  },
+  "Apt Pupil": {
+    "card": "CJ Gym Trickster 50",
+    "effect": "Doubles crit rate",
+    "element": "pas"
+  },
+  "Arms Master": {
+    "card": "Jazz 1/22",
+    "effect": "Halves HP skill costs",
+    "element": "pas"
+  },
+  "Atomic Bloodline": {
+    "effect": "Halves costs of Nuke skills",
+    "element": "tra"
+  },
+  "Atomic Hellscape": {
+    "effect": "Reduces costs of Nuke skills by 75%",
+    "element": "tra"
+  },
+  "Ave Maria": {
+    "effect": "Reduces costs of Support spells by 75%",
+    "element": "tra"
+  },
+  "Bargain Bolts": {
+    "effect": "Reduces costs of Elec skills by 75%",
+    "element": "tra"
+  },
+  "Black Viper": {
+    "cost": 1048,
+    "effect": "230 power",
+    "element": "alm",
+    "target": "1 foe",
+    "unique": "Satan"
+  },
+  "Bleeding Dry Brush": {
+    "card": "Ring of Vanity",
+    "cost": 1022,
+    "effect": "Drain next non-Almighty attack, Removes innate weaknesses for self",
+    "element": "sup",
+    "target": "1 ally",
+    "unique": "Ring of Vanity"
+  },
+  "Blessed Bloodline": {
+    "effect": "Halves costs of Bless skills",
+    "element": "tra"
+  },
+  "Bloodstained Eyes": {
+    "effect": "Raises evasion against foes afflicted with ailments",
+    "element": "tra"
+  },
+  "Bolstering Force": {
+    "effect": "Dmg dealt during 1 More x1.5",
+    "element": "tra",
+    "unique": "Tsukiyomi"
+  },
+  "Brave Step": {
+    "cost": 1016,
+    "effect": "Rebellion",
+    "element": "sup",
+    "target": "All allies",
+    "unique": "Cendrillon"
+  },
+  "Champion's Cup": {
+    "card": "Ring of Lust",
+    "cost": 1010,
+    "effect": "Diarama + Tarukaja",
+    "element": "rec",
+    "target": "1 ally",
+    "unique": "Ring of Lust"
+  },
+  "Charge": {
+    "card": "Jazz 9/4",
+    "cost": 1015,
+    "effect": "Multiply next phys/gun attack by 2.5",
+    "element": "sup"
+  },
+  "Checkmate": {
+    "cost": 1090,
+    "effect": "Debilitate",
+    "element": "sup",
+    "target": "All foes",
+    "unique": "Agnes"
+  },
+  "Chi You's Blessing": {
+    "effect": "Reduces costs of Psy skills by 75%",
+    "element": "tra"
+  },
+  "Circle of Sadness": {
+    "effect": "Activates endure up to 4 times",
+    "element": "tra",
+    "unique": "Orpheus"
+  },
+  "Cocytus": {
+    "effect": "Reduces costs of Ice skills by 75%",
+    "element": "tra"
+  },
+  "Cold-Blooded": {
+    "effect": "Increases chance of inflicting Freeze during 1 More",
+    "element": "tra"
+  },
+  "Concealment": {
+    "card": "Fusion Mutation",
+    "cost": 1004,
+    "effect": "Lower chance of being targeted for 3 turns",
+    "element": "sup"
+  },
+  "Concentrate": {
+    "card": "Jazz 9/25",
+    "cost": 1015,
+    "effect": "Multiply next magic attack by 2.5",
+    "element": "sup"
+  },
+  "Cool Customer": {
+    "effect": "Reduces ailment susceptibility by 50% for all allies",
+    "element": "tra",
+    "unique": "Lucy"
+  },
+  "Country Maker": {
+    "effect": "Dmg dealt and received +Compendium Completion%",
+    "element": "tra",
+    "unique": "Izanagi-no-Okami"
+  },
+  "Crisis Control": {
+    "effect": "Reduces dmg taken when weakness struck",
+    "element": "tra"
+  },
+  "Cursed Bloodline": {
+    "effect": "Halves costs of Curse skills",
+    "element": "tra"
+  },
+  "Death Scythe": {
+    "cost": 20,
+    "effect": "300 power, 70% Fear",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Deathly Illness": {
+    "effect": "Increases success rate of instakill skills",
+    "element": "tra"
+  },
+  "Debilitate": {
+    "card": "Jazz 12/11",
+    "cost": 1030,
+    "effect": "Tarunda + Rakunda + Sukunda",
+    "element": "sup",
+    "target": "1 foe"
+  },
+  "Dekaja": {
+    "card": "CJ Maid Cafe",
+    "cost": 1010,
+    "effect": "Negate all -kaja effects",
+    "element": "sup",
+    "target": "All foes"
+  },
+  "Dekunda": {
+    "card": "CJ Maid Cafe",
+    "cost": 1010,
+    "effect": "Negate all -kunda effects",
+    "element": "sup",
+    "target": "All allies"
+  },
+  "Demon's Bite": {
+    "effect": "Doubles own HP recovery",
+    "element": "tra"
+  },
+  "Diarama": {
+    "card": "Chain 20",
+    "cost": 1006,
+    "effect": "160 power HP restore",
+    "element": "rec",
+    "target": "1 ally"
+  },
+  "Divine Grace": {
+    "card": "Fusion Accident",
+    "effect": "HP recovery skills x1.5",
+    "element": "pas"
+  },
+  "Dodge Ice": {
+    "card": "Trial 20",
+    "effect": "Doubles evasion against Ice dmg",
+    "element": "pas"
+  },
+  "Double Shot": {
+    "cost": 12,
+    "effect": "50 power, 2 hits",
+    "element": "gun",
+    "target": "1 foe"
+  },
+  "Draining Mouth": {
+    "effect": "Doubles effectiveness of absorption skills",
+    "element": "tra"
+  },
+  "Dream Needle": {
+    "cost": 8,
+    "effect": "70 power, 70% Sleep",
+    "element": "gun",
+    "target": "1 foe"
+  },
+  "Drunken Passion": {
+    "effect": "Reduces costs of Fire skills by 75%",
+    "element": "tra"
+  },
+  "EXP Boost": {
+    "effect": "EXP +15%",
+    "element": "pas"
+  },
+  "Eccentric Temper": {
+    "effect": "Low chance to strengthen Phys attacks x1.8 for all allies",
+    "element": "tra",
+    "unique": "William"
+  },
+  "Electric Bloodline": {
+    "effect": "Halves costs of Elec skills",
+    "element": "tra"
+  },
+  "Endure": {
+    "card": "Full Moon 50",
+    "effect": "Survive 1 fatal blow with 1 HP per battle",
+    "element": "pas"
+  },
+  "Enduring Soul": {
+    "card": "L Leblanc",
+    "effect": "Survive 1 fatal blow with full HP per battle",
+    "element": "pas"
+  },
+  "Explosive Scheme": {
+    "effect": "Restores 25% HP for all allies after Futaba's All-Out Attack",
+    "element": "tra",
+    "unique": "Necronomicon"
+  },
+  "Fighting Spirit": {
+    "cost": 1080,
+    "effect": "Charge",
+    "element": "sup",
+    "target": "All allies",
+    "unique": "William"
+  },
+  "Fortify Spirit": {
+    "card": "Fusion Accident (56)",
+    "effect": "Halves susceptibility to non-unique ailments",
+    "element": "pas"
+  },
+  "Foul Odor": {
+    "effect": "Increases chance of inflicting ailments after Baton Pass",
+    "element": "tra"
+  },
+  "Foul Stench": {
+    "effect": "Increases chance of inflicting ailments",
+    "element": "tra"
+  },
+  "Frei": {
+    "card": "CJ Theater",
+    "cost": 1004,
+    "effect": "40 power",
+    "element": "nuk",
+    "target": "1 foe"
+  },
+  "Frenzied Bull": {
+    "effect": "Scales dmg dealt against lost HP under 50%",
+    "element": "tra",
+    "unique": "Asterius"
+  },
+  "Frigid Bloodline": {
+    "effect": "Halves costs of Ice skills",
+    "element": "tra"
+  },
+  "Gaia Blessing": {
+    "effect": "Increases chance of inflicting Burn, Freeze, and Shock by 50% for all allies",
+    "element": "tra",
+    "unique": "Agnes"
+  },
+  "Gaia Pact": {
+    "effect": "Increases chance of inflicting Burn, Freeze, and Shock by 25% for all allies",
+    "element": "tra",
+    "unique": "Johanna"
+  },
+  "Gambler's Foresight": {
+    "card": "Ring of Envy",
+    "cost": 1020,
+    "effect": "Masukukaja, Begins battle with Concentrate for self",
+    "element": "sup",
+    "target": "All allies",
+    "unique": "Ring of Envy"
+  },
+  "Gattling Blows": {
+    "cost": 16,
+    "effect": "30 power, 3-4 hits",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Ghost Nest": {
+    "effect": "Increases chance of inflicting ailments on downed foes",
+    "element": "tra"
+  },
+  "Gloomy Child": {
+    "effect": "Activates all equipped special weather passives",
+    "element": "tra"
+  },
+  "Gluttonmouth": {
+    "effect": "Strengthens own HP recovery by 50%",
+    "element": "tra"
+  },
+  "God Maker": {
+    "effect": "Increases chance of ally traits activating",
+    "element": "tra",
+    "unique": "Izanagi"
+  },
+  "Grace of Mother": {
+    "effect": "Reduces costs of Recovery skills by 75%",
+    "element": "tra"
+  },
+  "Grace of the Olive": {
+    "effect": "Reduces costs of skills to 0 during 1 More",
+    "element": "tra",
+    "unique": "Athena"
+  },
+  "Great Aim": {
+    "effect": "Gun hit rate +5%",
+    "element": "pas"
+  },
+  "Growth 2": {
+    "card": "CJ Beach",
+    "effect": "Gains 50% EXP while in stock",
+    "element": "pas"
+  },
+  "Guiding Tendril": {
+    "card": "Ring of Sorrow",
+    "cost": 1020,
+    "effect": "Down all foes, Only usable when ambushing foe, Life Aid to self",
+    "element": "sup",
+    "target": "All foes",
+    "unique": "Ring of Sorrow"
+  },
+  "Gun Amp": {
+    "effect": "Gun dmg x1.5",
+    "element": "pas"
+  },
+  "Gun Boost": {
+    "effect": "Gun dmg x1.25",
+    "element": "pas"
+  },
+  "Hallowed Spirit": {
+    "effect": "Doubles own HP and SP recovery",
+    "element": "tra",
+    "unique": "Messiah"
+  },
+  "Hazy Presence": {
+    "effect": "Increases chance of ally follow-up attacks",
+    "element": "tra",
+    "unique": "Raoul"
+  },
+  "Heat Riser": {
+    "card": "Jazz 12/4 CJ Underground Mall",
+    "cost": 1030,
+    "effect": "Tarukaja + Rakukaja + Sukukaja",
+    "element": "sup",
+    "target": "1 ally"
+  },
+  "Heat Up": {
+    "card": "Trial 50, Fusion Accident (36)",
+    "effect": "Restores 5% HP and 10 SP when ambushing foe",
+    "element": "pas"
+  },
+  "Heated Bloodline": {
+    "effect": "Halves costs of Fire skills",
+    "element": "tra"
+  },
+  "High Counter": {
+    "card": "CJ Leblanc",
+    "effect": "20% chance of reflecting phys/gun attacks",
+    "element": "pas"
+  },
+  "High Energy": {
+    "cost": 1080,
+    "effect": "Concentrate",
+    "element": "sup",
+    "target": "All allies",
+    "unique": "Celestine"
+  },
+  "Hollow Jester": {
+    "effect": "Dmg +40% for each foe afflicted with an ailment",
+    "element": "tra",
+    "unique": "Magatsu-Izanagi"
+  },
+  "Holy Benevolence": {
+    "cost": 1026,
+    "effect": "Samarecarm",
+    "element": "rec",
+    "target": "All allies",
+    "unique": "Maria"
+  },
+  "Holy Embrace": {
+    "effect": "Restores 25% HP each turn",
+    "element": "pas",
+    "unique": "Maria"
+  },
+  "Holy Whisper": {
+    "effect": "Restores 15% HP and 15 SP each turn in battle",
+    "element": "pas",
+    "unique": "Maria"
+  },
+  "Hyakka Ryouran": {
+    "cost": 1090,
+    "effect": "Heat Riser",
+    "element": "sup",
+    "target": "All allies",
+    "unique": "Gorokichi"
+  },
+  "Icy Glare": {
+    "effect": "Reduces ailment susceptibility by 25% for all allies",
+    "element": "tra",
+    "unique": "Milady"
+  },
+  "Immunity": {
+    "effect": "Nullifies ailments",
+    "element": "tra"
+  },
+  "Infinite Scheme": {
+    "effect": "Restores full HP for all allies after Futaba's All-Out Attack",
+    "element": "tra",
+    "unique": "Al Azif"
+  },
+  "Ingenious Spirit": {
+    "effect": "Chance to halve Support and Almighty skill costs for all allies",
+    "element": "tra",
+    "unique": "Hereward"
+  },
+  "Intense Focus": {
+    "effect": "Single-target magic dmg x1.2",
+    "element": "tra"
+  },
+  "Internal Hypnosis": {
+    "effect": "Extends buffs received by 1 turn",
+    "element": "tra"
+  },
+  "Invigorate 1": {
+    "card": "Technician 30",
+    "effect": "Restores 3 SP each turn",
+    "element": "pas"
+  },
+  "Inviolable Beauty": {
+    "effect": "Triples dmg dealt through repel effects",
+    "element": "tra",
+    "unique": "Kaguya"
+  },
+  "Iron Heart": {
+    "effect": "Halves costs of SP skills after Baton Pass",
+    "element": "tra",
+    "unique": "Thanatos"
+  },
+  "Just Die": {
+    "effect": "Reduces costs of instakill skills to 0",
+    "element": "tra"
+  },
+  "Kill Rush": {
+    "cost": 14,
+    "effect": "40 power, 1-3 hits",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Kuzunoha's Order": {
+    "effect": "Reduces skill costs by 25%",
+    "element": "pas"
+  },
+  "Laevateinn": {
+    "cost": 25,
+    "effect": "800 power",
+    "element": "phy",
+    "target": "1 foe",
+    "unique": "Loki"
+  },
+  "Last Stand": {
+    "effect": "Reduce hit rate of incoming dmg by 66% when ambushed",
+    "element": "pas"
+  },
+  "Life Aid": {
+    "card": "Trial 80, Fusion Accident (56)",
+    "effect": "Restores 8% HP and SP after a successful battle",
+    "element": "pas"
+  },
+  "Life Boost": {
+    "effect": "All Stats +3, SP +20",
+    "element": "pas"
+  },
+  "Life Surge": {
+    "effect": "HP +30%",
+    "element": "pas"
+  },
+  "Life Wall": {
+    "cost": 1095,
+    "effect": "Repel next magic non-Almighty attack",
+    "element": "sup",
+    "target": "All allies",
+    "unique": "Lucy"
+  },
+  "Linked Bloodline": {
+    "effect": "Greatly raises dmg dealt after Baton Pass",
+    "element": "tra"
+  },
+  "Mabufu": {
+    "card": "CJ BBB",
+    "cost": 1010,
+    "effect": "40 power",
+    "element": "ice",
+    "target": "All foes"
+  },
+  "Magic Ability": {
+    "card": "Network Fusion",
+    "effect": "Magic dmg x1.25",
+    "element": "pas"
+  },
+  "Majestic Presence": {
+    "effect": "Doubles effectiveness and decreases costs of Recovery skills for all allies",
+    "element": "tra",
+    "unique": "Diego"
+  },
+  "Makarakarn": {
+    "card": "Jazz 10/30",
+    "cost": 1024,
+    "effect": "Repel next magic non-Almighty magic attack",
+    "element": "sup",
+    "target": "1 ally"
+  },
+  "Mana Bonus": {
+    "effect": "SP +10%",
+    "element": "pas"
+  },
+  "Mana Surge": {
+    "effect": "SP +30%",
+    "element": "pas"
+  },
+  "Maragi": {
+    "card": "CJ BBB",
+    "cost": 1010,
+    "effect": "40 power",
+    "element": "fir",
+    "target": "All foes"
+  },
+  "Marakukaja": {
+    "card": "Jazz 7/17 10/16",
+    "cost": 1024,
+    "effect": "Increase defense for 3 turns",
+    "element": "sup",
+    "target": "All allies"
+  },
+  "Marakunda": {
+    "card": "Jazz 8/14 11/13",
+    "cost": 1024,
+    "effect": "Decrease defense for 3 turns",
+    "element": "sup",
+    "target": "All foes"
+  },
+  "Martyr's Gift": {
+    "effect": "Reduces costs of Bless skills by 75%",
+    "element": "tra"
+  },
+  "Masquerade": {
+    "cost": 25,
+    "effect": "300 power, 2 hits, 20% crit",
+    "element": "phy",
+    "target": "1 foe",
+    "unique": "Ella"
+  },
+  "Mastery of Magic": {
+    "effect": "Low chance to decrease attack spell costs for all allies",
+    "element": "tra",
+    "unique": "Carmen"
+  },
+  "Masukukaja": {
+    "card": "Jazz 7/31 10/23 CJ Aquarium",
+    "cost": 1024,
+    "effect": "Increase hit/evade for 3 turns",
+    "element": "sup",
+    "target": "All allies"
+  },
+  "Masukunda": {
+    "card": "Jazz 8/28 11/27 CJ Aquarium",
+    "cost": 1024,
+    "effect": "Decrease hit/evade for 3 turns",
+    "element": "sup",
+    "target": "All foes"
+  },
+  "Matarukaja": {
+    "card": "Jazz 7/10 10/9",
+    "cost": 1024,
+    "effect": "Increase attack for 3 turns",
+    "element": "sup",
+    "target": "All allies"
+  },
+  "Matarunda": {
+    "card": "Jazz 8/7 11/6",
+    "cost": 1024,
+    "effect": "Decrease attack for 3 turns",
+    "element": "sup",
+    "target": "All foes"
+  },
+  "Mazionga": {
+    "card": "Trial 30",
+    "cost": 1016,
+    "effect": "100 power",
+    "element": "ele",
+    "target": "All foes"
+  },
+  "Megido": {
+    "card": "Fusion Accident",
+    "cost": 1015,
+    "effect": "120 power",
+    "element": "alm",
+    "target": "All foes"
+  },
+  "Mighty Gaze": {
+    "effect": "All-target magic dmg x1.2",
+    "element": "tra"
+  },
+  "Miracle Rush": {
+    "cost": 16,
+    "effect": "80 power, 55% crit, 75% hit",
+    "element": "phy",
+    "target": "All foes",
+    "unique": "Diego"
+  },
+  "Money Boost": {
+    "effect": "Doubles money earned after battle",
+    "element": "pas"
+  },
+  "Mother's Lament": {
+    "effect": "Reduces costs of Curse skills by 75%",
+    "element": "tra"
+  },
+  "Mouth of Savoring": {
+    "effect": "Strengthens own SP recovery by 50%",
+    "element": "tra"
+  },
+  "Myriad Truths": {
+    "cost": 1040,
+    "effect": "120 power, 3 hits",
+    "element": "alm",
+    "target": "All foes",
+    "unique": "Izanagi-no-Okami"
+  },
+  "Naranari": {
+    "effect": "Doubles own SP recovery",
+    "element": "tra"
+  },
+  "Neo Cadenza": {
+    "cost": 1024,
+    "effect": "50% HP restore, Heat Riser",
+    "element": "rec",
+    "target": "All allies",
+    "unique": "Orpheus F"
+  },
+  "Null Burn": {
+    "effect": "Immune to Burn",
+    "element": "pas"
+  },
+  "Null Freeze": {
+    "effect": "Immune to Freeze",
+    "element": "pas"
+  },
+  "Null Hunger": {
+    "effect": "Immune to Hunger",
+    "element": "pas"
+  },
+  "Null Mortal": {
+    "effect": "Null Bless + Null Curse",
+    "element": "pas"
+  },
+  "Null Shock": {
+    "effect": "Immune to Shock",
+    "element": "pas"
+  },
+  "Omen": {
+    "effect": "Greatly increases success rate of instakill skills",
+    "element": "tra"
+  },
+  "Pagan Allure": {
+    "effect": "Magic dmg x1.5, Cannot exceed 100% limit",
+    "element": "tra"
+  },
+  "Phantom Show": {
+    "cost": 1004,
+    "effect": "90% Sleep",
+    "element": "ail",
+    "target": "All foes",
+    "unique": "Raoul"
+  },
+  "Pinch Anchor": {
+    "effect": "Allows use of ambush-only skills after Baton Pass",
+    "element": "tra"
+  },
+  "Pinnacle of Magic": {
+    "effect": "Low chance to halve attack spell costs for all allies",
+    "element": "tra",
+    "unique": "Celestine"
+  },
+  "Positive Thoughts": {
+    "effect": "Extends buffs received by 2 turns",
+    "element": "tra"
+  },
+  "Potent Hypnosis": {
+    "effect": "Extends buffs cast by 1 turn",
+    "element": "tra"
+  },
+  "Power Slash": {
+    "cost": 10,
+    "effect": "100 power",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "President's Insight": {
+    "card": "Ring of Greed",
+    "cost": 1015,
+    "effect": "Concentrate, Attack Master to self",
+    "element": "sup",
+    "target": "1 ally",
+    "unique": "Ring of Greed"
+  },
+  "Proud Presence": {
+    "effect": "Doubles effectiveness of Recovery skills for all allies",
+    "element": "tra",
+    "unique": "Zorro"
+  },
+  "Psi": {
+    "card": "CJ Theater",
+    "cost": 1004,
+    "effect": "40 power",
+    "element": "psy",
+    "target": "1 foe"
+  },
+  "Psychic Bloodline": {
+    "effect": "Halves costs of Psy skills",
+    "element": "tra"
+  },
+  "Raging Temper": {
+    "effect": "Low chance to strengthen Phys attacks by x1.4 for all allies",
+    "element": "tra",
+    "unique": "Captain Kidd"
+  },
+  "Rakukaja": {
+    "card": "CJ Sky Tree",
+    "cost": 1008,
+    "effect": "Increase defense for 3 turns",
+    "element": "sup",
+    "target": "1 ally"
+  },
+  "Rare Antibody": {
+    "effect": "Reduces susceptibility to ailments",
+    "element": "tra"
+  },
+  "Rebellion Blade": {
+    "cost": 1099,
+    "effect": "900 power, Down bonus x2.5 dmg instead",
+    "element": "alm",
+    "target": "1 foe",
+    "unique": "Hereward"
+  },
+  "Regenerate 3": {
+    "card": "CJ Art Museum",
+    "effect": "Restores 6% HP each turn",
+    "element": "pas"
+  },
+  "Relentless": {
+    "effect": "Single-target dmg that strikes foe weaknesses x1.5",
+    "element": "tra"
+  },
+  "Relief Bloodline": {
+    "effect": "Halves costs of Support skills",
+    "element": "tra"
+  },
+  "Resist Burn": {
+    "effect": "Reduces susceptibility to Burn",
+    "element": "pas"
+  },
+  "Resist Freeze": {
+    "effect": "Reduces susceptibility to Freeze",
+    "element": "pas"
+  },
+  "Resist Hunger": {
+    "effect": "Reduces susceptibility to Hunger",
+    "element": "pas"
+  },
+  "Resist Shock": {
+    "effect": "Reduces susceptibility to Shock",
+    "element": "pas"
+  },
+  "Retaliating Body": {
+    "effect": "Doubles dmg dealt through repel effects",
+    "element": "tra"
+  },
+  "Samarecarm": {
+    "card": "CJ Church",
+    "cost": 1018,
+    "effect": "Revive with full HP",
+    "element": "rec",
+    "target": "1 ally"
+  },
+  "Samurai's Ruling": {
+    "effect": "Raises crit rate and magic evasion",
+    "element": "pas"
+  },
+  "Savior Bloodline": {
+    "effect": "Halves costs of Recovery skills",
+    "element": "tra"
+  },
+  "Scoundrel Eyes": {
+    "effect": "Raises evasion rate against Phys attacks for all allies",
+    "element": "tra",
+    "unique": "Goemon"
+  },
+  "Sharp Student": {
+    "card": "CJ Gym",
+    "effect": "Lowers odds of receiving critical hit",
+    "element": "pas"
+  },
+  "Skillful Combo": {
+    "effect": "Raises dmg dealt after Baton Pass",
+    "element": "tra"
+  },
+  "Skillful Technique": {
+    "effect": "Technical dmg x1.25",
+    "element": "tra"
+  },
+  "Soul Chain": {
+    "card": "Network Fusion",
+    "effect": "Restores 20 SP after Baton Pass",
+    "element": "pas"
+  },
+  "Soul Touch": {
+    "effect": "Restores 5 SP after Baton Pass",
+    "element": "pas"
+  },
+  "Spell Master": {
+    "card": "Jazz 1/29",
+    "effect": "Halves SP skill costs",
+    "element": "pas"
+  },
+  "Static Electricity": {
+    "effect": "Increases chance of inflicting Shock on downed foes",
+    "element": "tra"
+  },
+  "Stealth": {
+    "effect": "Lowers chance of being targeted",
+    "element": "pas"
+  },
+  "Striking Weight": {
+    "effect": "Phys dmg x1.2",
+    "element": "tra"
+  },
+  "Sukukaja": {
+    "card": "CJ Sky Tree",
+    "cost": 1008,
+    "effect": "Increase hit/evade for 3 turns",
+    "element": "sup",
+    "target": "1 ally"
+  },
+  "Support Plus 1": {
+    "card": "Jazz 1",
+    "effect": "Adds Masukunda to Moral Support pool",
+    "element": "pas",
+    "unique": "Necronomicon"
+  },
+  "Support Plus 2": {
+    "card": "Jazz 2",
+    "effect": "Adds Masukunda and Marakunda to Moral Support pool",
+    "element": "pas",
+    "unique": "Necronomicon"
+  },
+  "Support Plus 3": {
+    "card": "Jazz 3",
+    "effect": "Adds Masukunda, Marakunda, and Matarunda to Moral Support pool",
+    "element": "pas",
+    "unique": "Necronomicon"
+  },
+  "Support Rate Up": {
+    "card": "Jazz 4",
+    "effect": "Raises chance of Moral Support activating",
+    "element": "pas",
+    "unique": "Necronomicon"
+  },
+  "Tactical Spirit": {
+    "effect": "Chance to halve Support skill costs for all allies",
+    "element": "tra",
+    "unique": "Robin Hood"
+  },
+  "Tag Team": {
+    "effect": "Allows use of consumables without expending them after Baton Pass",
+    "element": "tra",
+    "unique": "Ariadne"
+  },
+  "Tarukaja": {
+    "card": "CJ Sky Tree",
+    "cost": 1008,
+    "effect": "Increase attack for 3 turns",
+    "element": "sup",
+    "target": "1 ally"
+  },
+  "Taunting Aura": {
+    "card": "Fusion Mutation",
+    "cost": 1004,
+    "effect": "Raise chance of being targeted for 3 turns",
+    "element": "sup"
+  },
+  "Tetraja": {
+    "card": "CJ Maid Cafe",
+    "cost": 1024,
+    "effect": "Negate next instakill attack",
+    "element": "sup",
+    "target": "All allies"
+  },
+  "Tetrakarn": {
+    "card": "Jazz 10/2 CJ Destiny Land",
+    "cost": 1024,
+    "effect": "Repel next phys/gun attack",
+    "element": "sup",
+    "target": "1 ally"
+  },
+  "Thermal Conduct": {
+    "effect": "Increases chance of inflicting Burn after Baton Pass",
+    "element": "tra"
+  },
+  "Tyrant's Mind": {
+    "effect": "All dmg x1.25, Can exceed 100% limit",
+    "element": "pas",
+    "unique": "Satanel"
+  },
+  "Tyrant's Will": {
+    "card": "Ring of Pride",
+    "cost": 1015,
+    "effect": "Charge, Defense Master to self",
+    "element": "sup",
+    "target": "1 ally",
+    "unique": "Ring of Pride"
+  },
+  "Ultimate Support": {
+    "effect": "Moral Support may now fully recover and buff all allies",
+    "element": "pas",
+    "unique": "Al Azif"
+  },
+  "Ultimate Vessel": {
+    "effect": "Carries multiple traits to pass down during fusion",
+    "element": "tra",
+    "unique": "Regent"
+  },
+  "Undying Fury": {
+    "effect": "Phys dmg x1.3",
+    "element": "tra"
+  },
+  "Universal Law": {
+    "effect": "Technical dmg x1.5",
+    "element": "tra"
+  },
+  "Unparalleled Eyes": {
+    "effect": "Greatly raises evasion rate against Phys attacks for all allies",
+    "element": "tra",
+    "unique": "Gorokichi"
+  },
+  "Unshaken Will": {
+    "effect": "Immune to Confuse, Fear, Rage, and Despair",
+    "element": "pas",
+    "unique": "Asura"
+  },
+  "Vahana's Wings": {
+    "effect": "Reduces costs of Wind skills by 75%",
+    "element": "tra"
+  },
+  "Vault Guardian": {
+    "card": "Ring of Gluttony",
+    "cost": 1020,
+    "effect": "Marakukaja, Begins battle with Tetrakarn + Makarakarn to self",
+    "element": "sup",
+    "target": "All allies",
+    "unique": "Ring of Gluttony"
+  },
+  "Veil of Midnight": {
+    "effect": "Chance to prevent down when weakness struck for all allies",
+    "element": "tra",
+    "unique": "Cendrillon"
+  },
+  "Veil of Sunrise": {
+    "effect": "High chance to prevent down when weakness struck for all allies",
+    "element": "tra",
+    "unique": "Ella"
+  },
+  "Vitality of the Tree": {
+    "effect": "Allows use of ambush-only skills under normal conditions",
+    "element": "tra"
+  },
+  "Wealth of Lotus": {
+    "effect": "Extends buffs cast by 2 turns",
+    "element": "tra"
+  },
+  "Will of the Sword": {
+    "effect": "Charge-type effects x3 dmg instead, Begins battle with Concentrate",
+    "element": "tra"
+  },
+  "Wind Bloodline": {
+    "effect": "Halves costs of Wind skills",
+    "element": "tra"
+  },
+  "Wings of Wisdom": {
+    "card": "Ring of Wrath",
+    "cost": 1010,
+    "effect": "Amrita Shower, Speed Master to self",
+    "element": "sup",
+    "target": "All allies",
+    "unique": "Ring of Wrath"
+  }
+}
