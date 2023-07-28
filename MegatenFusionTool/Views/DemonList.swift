@@ -7,6 +7,11 @@
 
 import SwiftUI
 
+public struct List_Data {
+    static var list_changed = false
+}
+
+
 struct DemonList: View {
     
     @State var demon_list = Array<Demon>()
@@ -30,6 +35,7 @@ struct DemonList: View {
                         DemonRow(demon: $demon)
                     }
                     .navigationTitle("Demons")
+                    .navigationBarTitleDisplayMode(.inline)
                     
                 }
                 
@@ -37,8 +43,10 @@ struct DemonList: View {
                 demon_list = compendium.demon_data.sorted {
                     $0.lvl < $1.lvl
                 }
+                if List_Data.list_changed {
+                    self.scrollViewID = UUID()
+                }
                 print("Demon List Updated")
-                //scrollViewID = UUID()
             }.id(self.scrollViewID)
         }
     }

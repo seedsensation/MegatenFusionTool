@@ -15,46 +15,24 @@ struct DemonDetail: View {
     }
     
     var body: some View {
-        VStack{
+        VStack(alignment: .center) {
             VStack(alignment: .leading) {
-                Text("\(demon.wrappedValue.name)")
-                    .font(.title)
                 
+                Text(demon.wrappedValue.name).font(.title)
                 HStack {
-                    Text("\(demon.wrappedValue.race)")
+                    Text(demon.wrappedValue.race)
                     Spacer()
                     Text("Level \(demon.wrappedValue.lvl)")
-                }
-                .font(.subheadline)
-                .foregroundColor(.secondary)
-                
+                }.font(.subheadline)
+                    .foregroundStyle(.secondary)
                 Divider()
+                Spacer()
             }.padding()
-            VStack (alignment: .leading) {
-                ScrollView {
-                    VStack(alignment: .leading) {
-                        Text("About This Demon")
-                            .font(.title2)
-                        if demon.wrappedValue.align != nil {
-                            Text("Alignment: \(demon.wrappedValue.align!)")
-                        }
-                        
-                        Spacer()
-                        HStack(alignment: .center) {
-                            VStack {
-                                Spacer()
-                                Text("Stat Line").font(.subheadline)
-                                //StatsTable(demon: demon)
-                                Spacer()
-                            }
-                        }
-                    }
-                }
-                //SkillList(demon: demon)
-            }.padding()
+            StatsTable(demon: demon.wrappedValue)
         }
     }
 }
+
 
 struct DemonDetail_Previews: PreviewProvider {
     static var previews: some View {
